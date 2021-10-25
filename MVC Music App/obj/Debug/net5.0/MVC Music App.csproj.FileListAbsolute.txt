@@ -1,0 +1,16 @@
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\MVC Music App.exe
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\MVC Music App.deps.json
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\MVC Music App.runtimeconfig.json
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\MVC Music App.runtimeconfig.dev.json
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\MVC Music App.dll
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\ref\MVC Music App.dll
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\bin\Debug\net5.0\MVC Music App.pdb
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.csproj.AssemblyReference.cache
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.AssemblyInfoInputs.cache
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.AssemblyInfo.cs
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.csproj.CoreCompileInputs.cache
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.dll
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\ref\MVC Music App.dll
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.pdb
+C:\Users\karld\OneDrive\Documents\GitHub\TheatreAdmin\MVC Music App\obj\Debug\net5.0\MVC Music App.genruntimeconfig.cache
